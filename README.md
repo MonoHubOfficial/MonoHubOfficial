@@ -28,4 +28,4 @@ MonoHub is a community hub for mods targeting MonoBehaviour-based games (Gorilla
 
 ## License
 
-MIT - see [LICENSE](LICENSE).
+- MIT - see [LICENSE](LICENSE).
