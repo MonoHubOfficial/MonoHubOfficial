@@ -17,19 +17,15 @@ MonoHub is a community hub for mods targeting MonoBehaviour-based games (Gorilla
 
 ## Features
 
-- **Discord OAuth** — login and identity handled entirely through Discord, no separate account system
-- **Mod browsing** — search and filter mods by game
-- **Uploads** — verified users can publish their own mods for others to download
+- **Discord OAuth** - login and identity handled entirely through Discord, no separate account system
+- **Mod browsing** - search and filter mods by game
+- **Uploads** - verified users can publish their own mods for others to download
 
 ## Links
 
 - Site: [monohub.cc](https://monohub.cc)
 - Org: [github.com/MonoHubOfficial](https://github.com/MonoHubOfficial)
 
-## Contributing
-
-Open an issue before submitting large PRs. Small fixes and clear bug reports are always welcome.
-
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT - see [LICENSE](LICENSE).
